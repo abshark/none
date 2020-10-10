@@ -1,0 +1,92 @@
+.first {
+
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.second {
+    height: 100%;
+    width: 950px;
+    background-color: #EFEFEE;
+    margin-left: 20px;
+    flex-direction: column;
+}
+.fifth {
+    height: 150px;
+    width: 865px;
+    background-color: #f8e5e9;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 0.3cm;
+
+}
+.sixth {
+    display: flex;
+}
+.seventh {
+    height: 350px;
+    width: 350px;
+    background-color: #ffffff;
+    margin-top: 20px;
+    margin-left: 40px;
+    border-radius: 0.3cm;
+
+
+}
+.eieghth {
+
+    background-color: #ffffff;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 350px;
+    width: 505px;
+    border-radius: 0.3cm;
+}
+
+.nineth {
+
+    display: flex;
+    
+    
+}
+
+.tenth {
+
+    margin-left: 40px;
+    margin-top: 60px;
+    height: 80px;
+    width: 275px;
+    background-color: #454993;
+    border-radius: 0.3cm;
+}
+
+
+
+.eleventh {
+    margin-left: 20px;
+    margin-top: 60px;
+    height: 80px;
+    width: 275px;
+    background-color: #454993;
+    border-radius: 0.3cm;
+}
+.eleventh:hover {
+    opacity: 0.2;
+}   
+
+
+.twelveth {
+    margin-left: 20px;
+    margin-top: 60px;
+    height: 80px;
+    width: 275px;
+    background-color: #f86888;
+    border-radius: 0.3cm;
+
+} 
+
+.twelveth:hover {
+    opacity: 0.2;
+}   
+
